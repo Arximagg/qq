@@ -12,7 +12,7 @@ html, body {
 }
 
 .header {
-  background: url("images/cropped 5.jpg") no-repeat;
+  background: url("../images/cropped 5.jpg") no-repeat;
   background-size: 100%;
   max-height: 700px;
 }
@@ -212,7 +212,7 @@ html, body {
   line-height: 120%;
 }
 .quality {
-  background: url("images/BG3.png") no-repeat;
+  background: url("../images/BG3.png") no-repeat;
   background-size: 100%;
 }
 .quality__body {
@@ -311,7 +311,7 @@ html, body {
   flex-direction: column;
 }
 .bacgroundimg{
-  background: url("images/Bacccc.png") no-repeat;
+  background: url("../images/Bacccc.png") no-repeat;
   background-size: 100%;
 }
 .tutorial__inner {
@@ -467,7 +467,7 @@ html, body {
 }
 .disclaimer_sections {
   padding-top: 145px;
-  background: url("images/GEGEGE.jpg");
+  background: url("../images/GEGEGE.jpg");
   background-size: 100%;
 }
 .disclaimer__inner {
